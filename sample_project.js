@@ -1,1 +1,1 @@
-console.log("hello world this is sample_project");
+console.log("hello world this is sample_project wich is chnged and merged");
